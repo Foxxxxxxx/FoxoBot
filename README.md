@@ -1,0 +1,2 @@
+# FoxoBot
+Ignore this pls
